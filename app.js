@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 5. Load & Render Entry
     function loadEntry(file) {
-        fetch(`../json/${file}`)
+        fetch(`./json/${file}`)
             .then(r => r.json())
             .then(data => {
                 currentData = data;
