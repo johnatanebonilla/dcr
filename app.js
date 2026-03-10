@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let selectedLetter = null;
 
     // 1. Initial Load
-    fetch('./json/_index.json')
+    fetch('./json/index_db.json')
         .then(r => r.json())
         .then(data => {
             fullIndex = data;
