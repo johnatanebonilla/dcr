@@ -58,7 +58,7 @@ Si deseas ejecutar el conversor o el visor localmente:
 
 ## Créditos y Citación
 
-Este proyecto ha sido desarrollado por **Johnatan E. Bonilla** en el marco del **Instituto Caro y Cuervo**, dentro del Grupo de Investigaciones y la Línea de investigación en Lingüística de Corpus y Computacional, para el proyecto: **“Observatorio Ecosistema Digital de Lenguas de Colombia”**.
+Este proyecto ha sido desarrollado por **Johnatan E. Bonilla** en el marco del proyecto **“Observatorio Ecosistema Digital de Lenguas de Colombia”**, perteneciente a la **Línea de investigación en Lingüística de Corpus y Computacional** del **Grupo de Investigaciones** del **Instituto Caro y Cuervo**.
 
 Si utilizas estos datos o esta herramienta en una investigación académica, por favor cita tanto el desarrollo técnico como las fuentes originales en formato APA:
 
