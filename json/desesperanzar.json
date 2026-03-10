@@ -1,0 +1,73 @@
+{
+  "lema": "DESESPERANZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--><dicabrev><a name=\"abrev191\"><b><u>v.</u></b></dicabrev></i></font><b><font   face=\"arial\" color=\"#0000ff\"> </p>   </font><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"></b>",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "</font></b><font   face=\"arial\"> Quitar la esperanza (<i>trans</i>.). Es verbo moderno que no aparece en el   Dicc. Autor. ni en <dicautor><a name=\"autor193\"><font color = \"#FF000\"><u>Terreros</u></font></b></dicautor>, y su formación ha sido ocasionada por la conveniencia de   distinguir los sentidos de Quitar la esperanza y Causar impaciencia ó despecho, que se   hallaban confundidos en <i>desesperar.</i>",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "</p>   </i><p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> ) </font>",
+          "id_limpio": "— α )",
+          "definicion": "<font   face=\"arial\" color=\"#000080\"></font>",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay que desesperanzarle.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</font><font face=\"arial\"> </p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
+          "id_limpio": "— β )",
+          "definicion": "Con <i>de,   </i>para expresar el objeto de la esperanza que se quita. </font><font face=\"arial\"   color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desesperanzados de todo socorro por mar --- se vieron constreñidos á   retirarse á su país.»",
+              "autor": "<a name=\"autor194\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
+              "referencia_obra": "<i>R. de Lauria</i> (R. 19. 223<sup>1</sup>).   </font><font face=\"arial\" color=\"#000080\">"
+            },
+            {
+              "texto_cita": "«Prendado de una ninfa y desesperanzado de   obtenerla, va á pedirla en matrimonio.»",
+              "autor": "<a name=\"autor195\"><font color = \"#FF000\"><u>M. de la Rosa</u></font></b>",
+              "referencia_obra": ", <i>Anot.   á la Poét.</i> 4. 4 (1. 171). </font><font face=\"arial\" color=\"#000080\">"
+            },
+            {
+              "texto_cita": "«Determinó al   fin, desesperanzado de otro recurso, enviar con toda diligencia por una esclava mora que   tenía en su poder el conde de Cabra.»",
+              "autor": "<a name=\"autor196\"><font color = \"#FF000\"><u>Solís</u></font></b>",
+              "referencia_obra": "</i>,   1. 2 (4. 201). </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "</b></font><font   face=\"arial\"> Perder la esperanza (<i>intrans</i>.). </font><font face=\"arial\"   color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Empezaba ya á desesperanzar, cuando el brioso arrojo del oficial de   voluntarios de Cataluña don Juan Antonio Fábregues puso término á la angustia.»",
+          "autor": "<a name=\"autor198\"><font color = \"#FF000\"><u>Toreno</u></font></b>",
+          "referencia_obra": ", <i>Hist</i>. 5 (R. 64. 126<sup>1</sup>).</p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "</b></font><font   face=\"arial\"> Compuesto del prefijo privativo <i>des</i> y <i>esperanza</i>.</p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\">",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "</b></font><font   face=\"arial\"> Antes de <i>e</i> se escribe <i>c</i>: <i>desesperancé, desesperancen.</p>   </i></font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

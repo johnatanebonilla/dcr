@@ -1,0 +1,129 @@
+{
+  "lema": "DESENCONAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--><dicabrev><a name=\"abrev1816\"><b><u>v.</u></b></dicabrev></i> </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "</b></font><font   face=\"arial\"> Mitigar, quitar la inflamación ó encendimiento de lo que está enconado (<i><dicabrev><a name=\"abrev1818\"><b><u>trans.</u></b></dicabrev></i>).   </font><font face=\"arial\" color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Que él solo por sí solo te perdona </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Tus culpas y maldades </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Y cura lo herido y desencona, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> De tus enfermedades.»",
+          "autor": "<a name=\"autor1819\"><font color = \"#FF000\"><u>León</u></font></b>",
+          "referencia_obra": ",<i>   Poes.</i> 3,<i> salmo </i>102 (4. 606). </font><font face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Dígale   á su madre si quiere unas cuentas de leche para desenconar los pezones.»",
+          "autor": "",
+          "referencia_obra": "</font><font   face=\"arial\"> <i>Pic. Justina</i>, 1. 1. 1 (R. 33. 61<sup>1</sup>). </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "</b></font><font   face=\"arial\"> <dicabrev><a name=\"abrev1821\"><b><u>met.</u></b></dicabrev> Desahogar el ánimo enconado (<i><dicabrev><a name=\"abrev1822\"><b><u>trans.</u></b></dicabrev></i>).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "</font></p><p ALIGN=\"JUSTIFY\">   <font   face=\"arial\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> ) </font>",
+          "id_limpio": "— α )",
+          "definicion": "<font   face=\"arial\" color=\"#000080\"></font>",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dejemos llorar al que dolor tiene, que las lágrimas é sospiros mucho desenconan el corazón dolorido.»",
+              "autor": "<a name=\"autor1823\"><font color = \"#FF000\"><u>Celest.</u></font></b>",
+              "referencia_obra": "</i></font><i><font   face=\"arial\" color=\"#0000ff\"> </font></i><font face=\"arial\">1 (R. 3.</font><font   face=\"arial\" color=\"#0000ff\"> </font><font face=\"arial\">6<sup>1</sup>)."
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</font></p><p ALIGN=\"JUSTIFY\">   <font face=\"arial\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+          "id_limpio": "— α α )",
+          "definicion": "<i>Refl.</i> </font><font face=\"arial\"   color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Suplico á vuestra merced la vea [mi letra], y si le pareciere digna de   que su Majestad la vea, se la muestre, y si no, la rompa, porque para mí bástame haberme   desenconado en haberlo fecho.»",
+              "autor": "<a name=\"autor1824\"><font color = \"#FF000\"><u>Mend.</u></font></b>",
+              "referencia_obra": "(R. 21. XXIII<sup>1</sup>)."
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</font></p><p ALIGN=\"JUSTIFY\">   <font face=\"arial\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
+          "id_limpio": "— β β )",
+          "definicion": "<i><dicautor><a name=\"autor1825\"><font color = \"#FF000\"><u>Part.</u></font></b></dicautor></i> </font><font face=\"arial\"   color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desenconado ya con haber ultrajado á su voluntad al afligido inocente,   entra agora á tratar la causa de Dios.»",
+              "autor": "<a name=\"autor1826\"><font color = \"#FF000\"><u>León</u></font></b>",
+              "referencia_obra": ", <i>Expos. de   Job, </i>15 (1. 242). </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "</b></font><font   face=\"arial\"> <dicabrev><a name=\"abrev1828\"><b><u>met.</u></b></dicabrev> Moderar, calmar el encono ó enojo (<i><dicabrev><a name=\"abrev1829\"><b><u>trans.</u></b></dicabrev></i>).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "</font></p><p ALIGN=\"JUSTIFY\">   <font   face=\"arial\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> ) </font>",
+          "id_limpio": "— α )",
+          "definicion": "<font   face=\"arial\" color=\"#000080\"></font>",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con su moderación logró desenconar los ánimos.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</font> </p><p ALIGN=\"JUSTIFY\">   <font   face=\"arial\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+          "id_limpio": "— α α )",
+          "definicion": "<i><dicautor><a name=\"autor1830\"><font color = \"#FF000\"><u>Part.</u></font></b></dicautor></i> </font><font face=\"arial\"   color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A todos los mira como á enemigos, y para con ninguno tiene su ánimo   desenconado y amable.»",
+              "autor": "<a name=\"autor1831\"><font color = \"#FF000\"><u>León</u></font></b>",
+              "referencia_obra": ", <i>Nomb. </i>2,<i> Príncipe </i>(3.   225)."
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</font></p><p ALIGN=\"JUSTIFY\">   <font face=\"arial\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
+          "id_limpio": "— β )",
+          "definicion": "<i>   Refl. </i>Con <i>de,</i> para expresar el mal ánimo que uno depone. </font><font   face=\"arial\" color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con el buen ánimo que conocieron en mí, se desenconaron   del ruin que ellos tenían.»",
+              "autor": "<a name=\"autor1832\"><font color = \"#FF000\"><u>Espinel</u></font></b>",
+              "referencia_obra": ", <i>Escud. </i>3. 18 (R.   18. 470<sup>1</sup>). </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "</b></font><font   face=\"arial\"> <i>Refl. </i>Perder una cosa su violencia; y por extensión, Hacerse suave   una cosa perdiendo la aspereza. <dicautor><a name=\"autor1834\"><font color = \"#FF000\"><u>Acad.</u></font></b></dicautor> <i>Dicc. </i></font><font face=\"arial\"   color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si algún fuego te quema, es como paja, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Que en un instante crece y se   reposa. </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Poca es la diligencia que lo ataja, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Y su furor se apaga y   desencona </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Por arrojar en él cualquier alhaja.»",
+          "autor": "<a name=\"autor1835\"><font color = \"#FF000\"><u>Mend.</u></font></b>",
+          "referencia_obra": "<i>carta</i>   9 (R. 32. 65<sup>2</sup>).</font></p>   <p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\"></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Compuesto del prefijo negativo   <i>des </i>y<i> enconar.</i></font></p><font face=\"arial\"><i>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   </i></font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

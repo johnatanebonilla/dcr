@@ -1,0 +1,105 @@
+{
+  "lema": "BALANCEAR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--><dicabrev><a name=\"abrev608\"><b><u>v.</u></b></dicabrev></i> </font></p>   <b><p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"></b>",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "</font> </p>   </b><p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\">",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "</font><font face=\"arial\"   color=\"#0000ff\"> </font></b><font face=\"arial\">Dar ó hacer balances (<i>intrans</i>.). Se   dice especialmente del buque cuando toma un movimiento de oscilación hacia uno y otro de   sus costados. <i>Dicc. Marít</i>. </font><font face=\"arial\" color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al   frondoso </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Bosque no da [el viento] descanso, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Y su penacho umbroso </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Balancea con   silbo sonoroso.»",
+          "autor": "<a name=\"autor611\"><font color = \"#FF000\"><u>Arriaza</u></font></b>",
+          "referencia_obra": ", <i>oda</i> 5 (R. 67. 65<sup>1</sup>)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador_html": "</font></p><p ALIGN=\"JUSTIFY\">   <font face=\"arial\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+          "id_limpio": "— α )",
+          "definicion": "También se usa como <i>refl</i>. <dicautor><a name=\"autor612\"><font color = \"#FF000\"><u>Acad.</u></font></b></dicautor> <i>Dicc</i>. La nave se balancea. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b>",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "</b></font><font   face=\"arial\"> <dicabrev><a name=\"abrev614\"><b><u>met.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Balancear en la duda.»",
+          "autor": "<a name=\"autor615\"><font color = \"#FF000\"><u>Acad.</u></font></b>",
+          "referencia_obra": "<i>Gram.</i> </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "</b></font><font   face=\"arial\"> <dicabrev><a name=\"abrev617\"><b><u>met.</u></b></dicabrev> Vacilar, dudar, estar perplejo (<i>intrans</i>.). </font><font   face=\"arial\" color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al oír estas palabras responde sin balancear, como fiel   observador de la ley de Dios.»",
+          "autor": "<a name=\"autor618\"><font color = \"#FF000\"><u>Scío</u></font></b>",
+          "referencia_obra": ", <i>S. Mateo</i>, 26. 64, <i>nota</i>."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador_html": "</font></p><p ALIGN=\"JUSTIFY\">   <font face=\"arial\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+          "id_limpio": "— α )",
+          "definicion": "Con <i>en</i>.   </font><font face=\"arial\" color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Balancear en asegurar.»",
+              "autor": "<a name=\"autor619\"><font color = \"#FF000\"><u>Salvá</u></font></b>",
+              "referencia_obra": ", <i>Gram</i>.</font></p>   <b><p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"></b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "</font> </p>   </b><p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\">",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "</font></b><font   face=\"arial\"> Igualar ó poner en equilibrio (<i>trans</i>.). </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b>",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "</b></font><font   face=\"arial\"> <dicabrev><a name=\"abrev623\"><b><u>met.</u></b></dicabrev> Contrapesar. </font><font face=\"arial\" color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desde la   primera vez que le vio se agradó de él lo bastante para balancear su antiguo cariño á   don Juan de Sosa.»",
+          "autor": "<a name=\"autor624\"><font color = \"#FF000\"><u>Lista</u></font></b>",
+          "referencia_obra": ", <i>Ensayos</i>, 2, p. 178. </font><font   face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Trató de contemporizar y de procurar --- balancear y   entorpecer los osados proyectos de su rival.»",
+          "autor": "<a name=\"autor625\"><font color = \"#FF000\"><u>A. Saav.</u></font></b>",
+          "referencia_obra": "<i>Masan</i>.   2. 13 (5. 228).</font></p>   <p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\"></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Derivado de <i>balanza. </i>Port.   <i>balancear</i>; <dicabrev><a name=\"abrev627\"><b><u>cat.</u></b></dicabrev> <i>balansejar</i>,<i> balansegar</i>. A la forma <i>balanzar</i> (<i>bilanzar</i>,   R. 23 397<sup>1</sup>, es acaso italianismo) corresponden el <dicabrev><a name=\"abrev628\"><b><u>port.</u></b></dicabrev> <i>balançar</i>, <dicabrev><a name=\"abrev629\"><b><u>prov.</u></b></dicabrev>   <i>balansar</i>, <dicabrev><a name=\"abrev630\"><b><u>fr.</u></b></dicabrev> <i>balancer</i>, <dicabrev><a name=\"abrev631\"><b><u>it.</u></b></dicabrev> <i>bilanciare</i>.</font></p><font face=\"arial\">   <i><p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   </i></font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

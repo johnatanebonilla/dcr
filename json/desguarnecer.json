@@ -1,0 +1,239 @@
+{
+  "lema": "DESGUARNECER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--><dicabrev><a name=\"abrev675\"><b><u>v.</u></b></dicabrev></i> </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "</b></font><font   face=\"arial\"> Quitar á un objeto lo que es necesario para su uso (<i>trans</i>.).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> ) </font>",
+          "id_limpio": "— α )",
+          "definicion": "<font   face=\"arial\" color=\"#000080\"></font>",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desguarnecer el martillo,»",
+              "autor": "",
+              "referencia_obra": "</font><font face=\"arial\">   quitándole el mango."
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+          "id_limpio": "— α α )",
+          "definicion": "<i>Pas</i>. </font><font face=\"arial\"   color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin armas estoy; mi espada | Se desarma y desguarnece.»",
+              "autor": "<a name=\"autor677\"><font color = \"#FF000\"><u>Cald.</u></font></b>",
+              "referencia_obra": "<i>La dama duende</i>, 3. 12 (R. 7. 185<sup>2</sup>). </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "</b></font><font   face=\"arial\"> Quitar la guarnición</font><font face=\"arial\" color=\"#0000ff\"> </font><font   face=\"arial\">que sirve de adorno</font><font face=\"arial\" color=\"#0000ff\"> </font><font   face=\"arial\">(<i>trans</i>.).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> ) </font>",
+          "id_limpio": "— α )",
+          "definicion": "<font   face=\"arial\" color=\"#000080\"></font>",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desguarnecer el sombrero.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</font><font face=\"arial\"> </p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
+          "id_limpio": "— β )",
+          "definicion": "Con <i>de</i>,   para expresar aquello que se quita. </font><font face=\"arial\" color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Te quiero   más que primero; | Que porque al fino diamante | Le desguarnezcan del oro, | No desdicen   sus quilates.»",
+              "autor": "<a name=\"autor679\"><font color = \"#FF000\"><u>Tirso</u></font></b>",
+              "referencia_obra": ", <i>Marí-Hernández</i>, 1. 1 (R. 5. 110<sup>1</sup>)."
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">γ</font><font face=\"arial\"> )",
+          "id_limpio": "— γ )",
+          "definicion": "<dicabrev><a name=\"abrev680\"><b><u>met.</u></b></dicabrev> </font><font   face=\"arial\" color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya Febo sobre el mar del pardo moro | Templaba al rojo   carro las centellas, | Desguarneciendo al mundo del tesoro | De su luz, y bordándolo de   estrellas.»",
+              "autor": "<a name=\"autor681\"><font color = \"#FF000\"><u>Valb.</u></font></b>",
+              "referencia_obra": "<i>Bern</i>. 22 (R. 17. 369<sup>2</sup>)."
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+          "id_limpio": "— α α )",
+          "definicion": "<i>Part</i>. </font><font face=\"arial\"   color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo, pobre gentil hidalgo, | De bienes desguarnecido, | Si por mí   mismo'no valgo, | Siempre viviré caído.»",
+              "autor": "<a name=\"autor682\"><font color = \"#FF000\"><u>Castillejo</u></font></b>",
+              "referencia_obra": ", 3, <i>Vida   de corte</i> (R. 32. 214<sup>3</sup>). </font><font face=\"arial\" color=\"#000080\">"
+            },
+            {
+              "texto_cita": "«La   noche su manto negro | Desguarnecido de estrellas | Tiende en los hombros del cielo.»",
+              "autor": "<a name=\"autor683\"><font color = \"#FF000\"><u>Lope</u></font></b>",
+              "referencia_obra": ",<i> Los ramilletes de Madrid, </i>1. 18 (R. 52. 309<sup>1</sup>). </font><font   face=\"arial\" color=\"#000080\">"
+            },
+            {
+              "texto_cita": "«No quisiera que mi ahijado | Entrase desguarnecido | De   honores y no lucido | Por haberme á mí nombrado.»",
+              "autor": "<a name=\"autor684\"><font color = \"#FF000\"><u>Cald.</u></font></b>",
+              "referencia_obra": "<i>El   postrer duelo de España,</i> 3. 17 (R. 14. 147<sup>2</sup>). </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "</b></font><font   face=\"arial\"> Quitar la fuerza ó fortaleza, dejar sin defensa (<i>trans</i>.).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> ) </font>",
+          "id_limpio": "— α )",
+          "definicion": "<font   face=\"arial\" color=\"#000080\"></font>",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La almena desquiciando, aquella parte | Desguarneció del   muro, y ancha brecha | Para muchos abrió.»",
+              "autor": "",
+              "referencia_obra": "</font><font face=\"arial\"> Hermosilla, <i>Iliada</i>.   12 (1. 372)."
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+          "id_limpio": "— α α )",
+          "definicion": "<i>Part</i>. </font><font face=\"arial\"   color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin muro y sin torreones, según nos ha trasmitido Floro, defendióse   largos años la inmortal Numancia contra el poder de Roma. También desguarnecida y   desmurada resistió al de Francia con tenaz porfía, si no por tanto tiempo, la ilustre   Zaragoza.»",
+              "autor": "<a name=\"autor686\"><font color = \"#FF000\"><u>Toreno</u></font></b>",
+              "referencia_obra": ", <i>Hist</i>. 5 ( R. 64. 109<sup>2</sup>)."
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "<i>   </p>   </i><p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
+          "id_limpio": "— β )",
+          "definicion": "Con<i>   de, </i>para expresar lo que se quita. </font><font face=\"arial\" color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Falto y   desguarnecido de gente, y si tiene algunos soldados, estarán como su príncipe   corrompidos y estragados con los vicios.»",
+              "autor": "<a name=\"autor687\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+              "referencia_obra": ", <i>Hist. Esp.</i>   17. 7 (R. 30. 509<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
+            },
+            {
+              "texto_cita": "«Teucro con una   flecha desde el muro | Hirió también el brazo por la parte | Que vio desguarnecida de la   adarga.»",
+              "autor": "",
+              "referencia_obra": "</font><font face=\"arial\"> Hermosilla, <i>Iliada</i>. 12 (1. 371). </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "</b></font><font   face=\"arial\"> Quitar á golpe de hacha, espada ú otra arma semejante una ó varias piezas   de la armadura del contrario (<i>trans</i>.). </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\">",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "</b></font><font   face=\"arial\"> Quitar las guarniciones de los animales de tiro (<i>trans</i>.).</p>   </font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\">",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">(Se usaba el primitivo <i>desguarnir.</i>)<i>   Siglo XV: </i></font><font face=\"arial\" color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ya los arneses de aquellos   caballeros del maestre todos estaban desguarnecidos, é unas piezas saltaban tras otras.»",
+          "autor": "",
+          "referencia_obra": "</font><font   face=\"arial\"> <i>Crón. Álv. de Luna, </i>65 (172). </font><font face=\"arial\"   color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«E embistiole al través par la proa, é quebróle el baupres, é   soltóle el estuy, é desguarnecióle todo.»",
+          "autor": "",
+          "referencia_obra": "</font><font face=\"arial\"><i> Crón. P.   Niño, </i>p. 145. </font><font face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Los que traian voluntad de   justar con él, á unos levaba los yelmos, á los otros arrancaba los escudos, á otros   desguarnecia.»",
+          "autor": "",
+          "referencia_obra": "</font><font face=\"arial\"> <i>lb</i>. p. 131. </font><font face=\"arial\"   color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«E tocóle en el guardabrazo derecho é desguarnecióselo é rompió su   lanza en él por medio.»",
+          "autor": "<a name=\"autor692\"><font color = \"#FF000\"><u>Passo honroso</u></font></b>",
+          "referencia_obra": ", </i>14 (12<sup>1</sup>).   </font><font face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Mi arnes é mi braçal | Está ya   desguarneçido.»",
+          "autor": "<a name=\"autor693\"><font color = \"#FF000\"><u>Canc. de Baena</u></font></b>",
+          "referencia_obra": ", </i>p. 288.<i> </p>   </i><p ALIGN=\"JUSTIFY\">— <i>Siglo XIII: </i></font><font face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«E   desguarnióse todo»",
+          "autor": "<a name=\"autor694\"><font color = \"#FF000\"><u>Scío</u></font></b>",
+          "referencia_obra": "). </font><font face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Quando le ovo desguarnido e de todo   despoiado, | Levol e vestyol de vn iamete presçiado.»",
+          "autor": "",
+          "referencia_obra": "</font><font face=\"arial\"> Fern<i>.   Gonz. </i>373 (R. 57. 401<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Oyredes   lo que fiço al conde tolosano: | Desguarnecióle el cuerpo el mismo con su mano.»",
+          "autor": "",
+          "referencia_obra": "</font><font   face=\"arial\"> <i>lb</i>. 372 (R. 57. 400<sup>2</sup>). </font><font face=\"arial\"   color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Azien desguarnidos, e todos desarmados.»",
+          "autor": "",
+          "referencia_obra": "</font><font face=\"arial\"> <i>Alex</i>.   1876 (R. 57. 205<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Lorando de los   ojos, los corpos desguarnidos.»",
+          "autor": "",
+          "referencia_obra": "</font><font face=\"arial\"> <i>lb</i>. 1520 (R. 57. 194<sup>1</sup>).</p>   </font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Compuesto del prefijo negativo   <i>des </i>y<i> guarnecer. </i>Port. <i>desguarnecer. </i>Al ant<i>. desguarnir </i>corresponden   el <dicabrev><a name=\"abrev696\"><b><u>cat.</u></b></dicabrev> <i>desguarnir, </i>prov<i>. desguarnir, desgarnir, </i>fr<i>. dégarnir. </i>Nuestro<i>   desguarnir </i>se usa todavía entre la gente de mar por Desarmar, desaparejar, desnudar y   despasar, como </font><font face=\"arial\" color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desguarnir el cabrestante, un   palo ó una verga, un aparejo (despasando su beta), etc.»",
+          "autor": "<a name=\"autor698\"><font color = \"#FF000\"><u>Dicc. Marít.</u></font></b>",
+          "referencia_obra": "</p>   </i></font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Tiene estas formas   irregulares: <i>desguarnezco; desguarnezc-a, as, a, amos, áis, an.</p>   </i></font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

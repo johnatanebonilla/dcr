@@ -1,0 +1,90 @@
+{
+  "lema": "DESCONVENIR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--><dicabrev><a name=\"abrev357\"><b><u>v.</u></b></dicabrev></i> </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "</b></font><font   face=\"arial\"> No convenir ó no concordar en opiniones (<i><dicabrev><a name=\"abrev359\"><b><u>intrans.</u></b></dicabrev></i>).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "</font></p><p ALIGN=\"JUSTIFY\">   <font   face=\"arial\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> ) </font>",
+          "id_limpio": "— α )",
+          "definicion": "<font   face=\"arial\" color=\"#000080\"></font>",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué delito ha habido jamás, por averiguado que esté,   que en el rigor de la ley haya tenido á todos los jueces de un parecer; que ó el error   mismo del ingenio humano ó el suceso de la fortuna --- no los haya hecho desconvenir?»",
+              "autor": "<a name=\"autor360\"><font color = \"#FF000\"><u>Villegas</u></font></b>",
+              "referencia_obra": ", <i>Boecio</i>,<i> </i>1. 4 (2. 41). </font></p><p ALIGN=\"JUSTIFY\">   <font   face=\"arial\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> Con) <i>en</i>,   para expresar el punto á que se refiere el desacuerdo. </font><font face=\"arial\"   color=\"#000080\">"
+            },
+            {
+              "texto_cita": "«Todos á una concordaron en que el sumo bien consistía en gozo --- mas   desconvenían, como es dicho, en el lugar y asiento de este gozo.»",
+              "autor": "",
+              "referencia_obra": "</font><font   face=\"arial\"> Pinciano, <i>Philos. <dicabrev><a name=\"abrev361\"><b><u>ant.</u></b></dicabrev> poétic. epíst</i>. 1, <i>fragm</i>.   2 (<i>Dicc. Autor</i>.). </font><font face=\"arial\" color=\"#000080\">"
+            },
+            {
+              "texto_cita": "«En esto [en   ser cristianos] nos parecemos | Patricio y yo, aunque también | Desconvenimos en esto; |   Pues aunque somos cristianos | Los dos, somos tan opuestos, | Que distamos cuanto va |   Desde ser malo á ser bueno.»",
+              "autor": "<a name=\"autor362\"><font color = \"#FF000\"><u>Cald.</u></font></b>",
+              "referencia_obra": "<i>El purgatorio de S.   Patricio</i>, 1. 2 (R.<i> </i>7. 151<sup>1</sup>)."
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</font></p><p ALIGN=\"JUSTIFY\">   <font face=\"arial\">— </font><font face=\"symbol\">γ</font><font face=\"arial\"> )",
+          "id_limpio": "— γ )",
+          "definicion": "<i> Refl</i>.   Al fin se desconvinieron. Véase <code>CONVENIR</code>, 2, b. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "</b></font><font   face=\"arial\"> Aplicado á cosas, No ser conformes, no ofrecer iguales cualidades para un   fin, no dar un mismo sentido (<i>intrans</i>.). Con un <dicabrev><a name=\"abrev364\"><b><u>compl.</u></b></dicabrev> <dicabrev><a name=\"abrev365\"><b><u>recípr.</u></b></dicabrev> </font><font   face=\"arial\" color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desconvienen también entre sí las ediciones de Zaragoza,   León de Francia y Madrid.»",
+          "autor": "",
+          "referencia_obra": "</font><font face=\"arial\"> Mondéjar, <i>Disert</i>. 3.<i> </i>4.   17 (<i>Dicc. Autor</i>.). </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "</b></font><font   face=\"arial\"> No ser conveniente ó á propósito (<i>Estre malséant</i>, Oudin).</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b>",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "</b></font><font   face=\"arial\"> <i>Siglo XV:</i> </font><font face=\"arial\" color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desconuenir,   desconcertarse: <i>disconuenio</i>,<i> is.»</i>",
+          "autor": "<a name=\"autor369\"><font color = \"#FF000\"><u>Nebrija</u></font></b>",
+          "referencia_obra": ",<i>   Vocab</i>. (en el <dicabrev><a name=\"abrev370\"><b><u>lat.</u></b></dicabrev> traduce </font><font face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«por   disconuenir»",
+          "autor": "",
+          "referencia_obra": ").</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "</b></font><font   face=\"arial\"> Compuesto del prefijo negativo <i>des </i>y <i>convenir</i>. Port.<i>   desconvir</i>; <dicabrev><a name=\"abrev372\"><b><u>cat.</u></b></dicabrev> <i>desconvenir</i>; <dicabrev><a name=\"abrev373\"><b><u>prov.</u></b></dicabrev><i> desconvenir</i>,<i> descovenir</i>. Al   <dicabrev><a name=\"abrev374\"><b><u>lat.</u></b></dicabrev><i> disconvenire </i>corresponden nuestro <i>disconvenir</i>,<i> </i>el <dicabrev><a name=\"abrev375\"><b><u>fr.</u></b></dicabrev><i>   disconvenir</i>, el <dicabrev><a name=\"abrev376\"><b><u>it.</u></b></dicabrev><i> disconvenire</i>.</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b>",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "</b></font><font   face=\"arial\"> Sigue la de <i>convenir</i>,<i> venir</i>.</font></p>   <font face=\"arial\" color=\"#0000ff\"><b><p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   </b></font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,124 @@
+{
+  "lema": "DECLAMAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--><dicabrev><a name=\"abrev911\"><b><u>v.</u></b></dicabrev></i> </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "</b></font><font   face=\"arial\"> Orar con el fin de ejercitarse en las reglas de la retórica, casi siempre   sobre asunto fingido ó supuesto (<i>intrans</i>.). </font><font face=\"arial\"   color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Declamaba [Antonio Juliano, retórico español] con gran felicidad, y   daba mucho contentó á los oyentes.»",
+          "autor": "<a name=\"autor913\"><font color = \"#FF000\"><u>Aldrete</u></font></b>",
+          "referencia_obra": ", <i>Orig</i>. 1.   19 (118). </font><font face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Reuniendo todos estos estudios con   la ambición que le dominaba de adquirir el primer lugar en la elocuencia, había seguido   los más famosos oradores de su tiempo, y asistido á sus oraciones, ejercitándose él   mismo en componer y declamar bajo la dirección de ellos.»",
+          "autor": "<a name=\"autor914\"><font color = \"#FF000\"><u>Azara</u></font></b>",
+          "referencia_obra": ", <i>Vida de Cicerón</i>, 1, p. 43. </font><font face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«No   dejaba pasar día sin ejercitarse en alguna de las partes de la elocuencia, sobre todo en   la decIamación, que cultivaba con el mayor esmero en compañía de sus condiscípulos M.   Pisón y Q. Pompeyo --- Declamaban algunas veces en latín, pero muchas más en griego,   porque esta lengua les suministraba mayor variedad de expresiones y adornos y ocasión de   enriquecer la suya; y porque además los maestros griegos, que eran más hábiles que los   latinos, no los podían corregir si no se servían de su propia lengua.»",
+          "autor": "",
+          "referencia_obra": "</font><font   face=\"arial\"> Id. <i>ib</i>. 1, p. 35. </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "</b></font><font   face=\"arial\"> En general, orar en público (<i>intrans</i>.). </font><font face=\"arial\"   color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Quisieron subir adonde él estaba, ó para declamar contra él, ó para   hacerle sentar por fuerza.»",
+          "autor": "<a name=\"autor916\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
+          "referencia_obra": "<i>Obr. póst</i>. 1,   p. 169. </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "</b></font><font   face=\"arial\"> Orar, expresarse con demasiado calor y vehemencia, y particularmente hacer   alguna invectiva con aspereza (<i>intrans</i>.). Generalmente con <i>contra</i>. </font><font   face=\"arial\" color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fray Luis de Granada y Benito Arias Montano, entre otros   sabios de menor nombre, declamaron contra los males que la leclura de tales libros   producía.»",
+          "autor": "<a name=\"autor918\"><font color = \"#FF000\"><u>Clem.</u></font></b>",
+          "referencia_obra": "<i>Coment</i>. 1, p. <code>XII</code>. </font><font   face=\"arial\" color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Declamó [el partido opuesto] desde un principio contra la   revolución, anunció sus peligros, predijo sus desastres, y no cesó de aconsejar que se   empleasen todos los medios para contrarrestarla.»",
+          "autor": "",
+          "referencia_obra": "</font><font face=\"arial\"> M. de la   Rosa, <i>Esp. del siglo</i>, 3. 16 (5. 225). </font><font face=\"arial\"   color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Uztáriz, declamando contra la alcabala, contra las aduanas internas y   contra los aranceles de las marítimas, concibe un plan de comercio activo, tan vasto como   juiciosamente combinado.»",
+          "autor": "<a name=\"autor919\"><font color = \"#FF000\"><u>Jovell.</u></font></b>",
+          "referencia_obra": "<i>Elog. de Carlos III</i>   (R. 46. 315<sup>1</sup>). </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "</b></font><font   face=\"arial\"> Recitar la prosa ó el verso con la entonación, los ademanes y el gesto   convenientes",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+          "id_limpio": "— α )",
+          "definicion": "<i>Intrans</i>.   Ese actor no declama bien.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
+          "id_limpio": "— β )",
+          "definicion": "<i>Trans</i>.   </font><font face=\"arial\" color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Una de nuestras primeras actrices en sus   buenos tiempos arrancaba entusiastas aplausos declamando largas tiradas de versos,   medianos á veces, y á veces malos.»",
+              "autor": "<a name=\"autor921\"><font color = \"#FF000\"><u>Coll y Vehí</u></font></b>",
+              "referencia_obra": ", <i>Diál.   liter</i>. p. 182."
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+          "id_limpio": "— α α )",
+          "definicion": "<i>Part</i>. </font><font face=\"arial\"   color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acuérdate de que no era insensible el público á aquella especie de   canto con que la Ristori sabía realzar la armonía de la versificación, y sobre todo en   aquella escena en que la música, entrelazada con la palabra declamada, idealizaba la   muerte de una manera tan sublime.»",
+              "autor": "<a name=\"autor922\"><font color = \"#FF000\"><u>Coll y Vehí</u></font></b>",
+              "referencia_obra": ", <i>Diál. liter</i>.   p. 182.</p>   </font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"></b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\"><i>Siglo XV</i>: </font><font   face=\"arial\" color=\"#000080\">",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A buen seso estudioso | Caridoso | Non fablé desaguisado,   | En seguir lo non dubdoso | E fermoso | Que deve ser declamado.»",
+          "autor": "<a name=\"autor925\"><font color = \"#FF000\"><u>Canc. de Baena</u></font></b>",
+          "referencia_obra": "</i>, p. 363. </font><font face=\"arial\"   color=\"#000080\">"
+        },
+        {
+          "texto_cita": "«Por ende castigo devia ser puesto | Al que trobando declama denuesto |   De quien quier, demas sy tien grant estado.»",
+          "autor": "",
+          "referencia_obra": "</font><font face=\"arial\"> <i>Ib</i>. p. 117.   </p>   </font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"></b>"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Port. <i>declamar</i>; <dicabrev><a name=\"abrev927\"><b><u>fr.</u></b></dicabrev> <i>déclamer</i>;   <dicabrev><a name=\"abrev928\"><b><u>it.</u></b></dicabrev> <i>declamare</i>: del <dicabrev><a name=\"abrev929\"><b><u>lat.</u></b></dicabrev> <i>declamare</i>, compuesto de <i>de</i>, y <i>clamare</i>,   clamar. </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   </font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}
