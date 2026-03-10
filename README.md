@@ -56,6 +56,22 @@ Si deseas ejecutar el conversor o el visor localmente:
 2. Ejecuta `python mass_convert.py`.
 3. Para ver los resultados, inicia un servidor local: `python -m http.server 8000` y abre `localhost:8000`.
 
+## Créditos y Citación
+
+Este proyecto ha sido desarrollado por **Johnatan E. Bonilla** en el marco del **Instituto Caro y Cuervo**, dentro del Grupo de Investigaciones y la Línea de investigación en Lingüística de Corpus y Computacional, para el proyecto: **“Observatorio Ecosistema Digital de Lenguas de Colombia”**.
+
+Si utilizas estos datos o esta herramienta en una investigación académica, por favor cita tanto el desarrollo técnico como las fuentes originales en formato APA:
+
+### Desarrollo Técnico
+
+- Bonilla, J. E. (2026). _Visor Digital del Diccionario de Construcción y Régimen de la Lengua Castellana_. [https://github.com/johnatanebonilla/dcr](https://github.com/johnatanebonilla/dcr)
+
+### Fuentes Originales
+
+- Cuervo, R. J. (1886). _Diccionario de construcción y régimen de la lengua castellana_. París: Roger.
+- Cuervo, R. J. (2002). _Diccionario de construcción y régimen de la lengua castellana en CD-ROM_ (1ª ed.). Barcelona: Herder Editorial.
+- Instituto Caro y Cuervo. (1954–1994). _Diccionario de construcción y régimen de la lengua castellana_ (Vols. 3–8). Bogotá: Instituto Caro y Cuervo.
+
 ---
 
 _Proyecto de preservación y digitalización lexicográfica._
