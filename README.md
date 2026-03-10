@@ -1,6 +1,8 @@
 # Diccionario de Construcción y Régimen (DCR) - Cuervo
 
-Este repositorio contiene la versión digital y refinada del **Diccionario de Construcción y Régimen de la Lengua Castellana** de Rufino José Cuervo. Los datos han sido extraídos del **Diccionario de construcción y régimen de la lengua castellana en CD-ROM** (1ª ed.). Barcelona: Herder Editorial, y han sido transformados a un formato **JSON estructurado** para su visualización a través de una aplicación web ligera.
+Este repositorio contiene la versión digital y refinada del **Diccionario de Construcción y Régimen de la Lengua Castellana** de Rufino José Cuervo.
+
+Los datos han sido extraídos del **Diccionario de construcción y régimen de la lengua castellana en CD-ROM** (1ª ed.). Barcelona: Herder Editorial, y han sido transformados a un formato **JSON estructurado** para su visualización a través de una aplicación web ligera.
 
 ## 🚀 Vista Rápida
 
@@ -58,13 +60,13 @@ Si deseas ejecutar el conversor o el visor localmente:
 
 ## Créditos y Citación
 
-Este proyecto ha sido desarrollado por **Johnatan E. Bonilla** en el marco del proyecto **“Observatorio Ecosistema Digital de Lenguas de Colombia”**, vinculado a la **Línea de investigación en Lingüística de Corpus y Computacional** del **Grupo de Investigaciones** del **Instituto Caro y Cuervo**.
+Este desarrollo ha sido realizado por **Johnatan E. Bonilla** en el marco del proyecto **“Observatorio Ecosistema Digital de Lenguas de Colombia”**, que es del **Grupo de Investigaciones** de la **Línea de investigación en Lingüística de Corpus y Computacional** del **Instituto Caro y Cuervo**.
 
 Si utilizas estos datos o esta herramienta en una investigación académica, por favor cita tanto el desarrollo técnico como las fuentes originales en formato APA:
 
 ### Desarrollo Técnico
 
-- Bonilla, J. E. (2026). _Visor Digital del Diccionario de Construcción y Régimen de la Lengua Castellana_. [https://github.com/johnatanebonilla/dcr](https://github.com/johnatanebonilla/dcr)
+- Bonilla, J. E. (2026). _Visor Digital del Diccionario de Construcción y Régimen de la Lengua Castellana_. [https://github.com/johnatanebonilla/dcr](https://johnatanebonilla.github.io/dcr)
 
 ### Fuentes Originales
 
